@@ -1,2 +1,6 @@
 # analisis-donacion-sangre
-En este proyecto se aplica estadística descriptiva e inferencial a través de la regresión logística sobre el conjunto de datos recopilados de la base de datos de donantes del Centro de servicios de transfusión de sangre en la ciudad de Hsin-Chu en Taiwán.
+Dar vida parece ser imposible, pero no es así. Todos en el mundo tenemos la oportunidad de hacerlo, donar sangre es una opción. Al día son millones las personas que esperan algunos litros de sangre para salvar su vida. La alta demanda de sangre exige que la recolección sea de una manera amplia. Hoy en día la única manera de obtener este líquido vital es a través de la donación de las personas. Se requiere de un número significativo de donantes para cubrir esta necesidad. Sin embargo, no es suficiente con esto, es importante que las personas que han donado sigan ejerciendo esta práctica.
+
+En este proyecto, se trabajará con datos recopilados de la base de datos de donantes del Centro de servicios de transfusión de sangre en la ciudad de Hsin-Chu en Taiwán. El centro pasa su autobús de servicio de transfusión de sangre a una universidad en la ciudad para recolectar la sangre donada aproximadamente cada tres meses. El conjunto de datos, obtenido del repositorio de aprendizaje automático de UCI, consta de una muestra aleatoria de 748 donantes. El objetivo será predecir si una persona donará dentro de un período de tiempo determinado.
+
+Se aplica estadística descriptiva e inferencial a través de la regresión logística.
